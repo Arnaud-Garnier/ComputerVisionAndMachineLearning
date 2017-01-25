@@ -1,0 +1,9 @@
+- Mélanger les lignes d'un fichier : shuf letter.txt --output=letter.txt
+
+- Regarder performances de reconnaissance d'une lettre :
+	grep A letter.txt > A.txt
+	./letter_recog -mlp -data=A.txt -save=compA.xml
+	./letter_recog -mlp -load=compA.xml
+
+	--> Regarder résultats test
+

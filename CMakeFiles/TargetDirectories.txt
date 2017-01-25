@@ -1,0 +1,2 @@
+/home/user/Documents/SI4/S2/CV_ML/FaceDetect/CMakeFiles/facedetect.dir
+/home/user/Documents/SI4/S2/CV_ML/FaceDetect/CMakeFiles/letter_recog.dir
